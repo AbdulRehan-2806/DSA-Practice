@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 <!---LeetCode Topics End-->
