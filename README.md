@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
