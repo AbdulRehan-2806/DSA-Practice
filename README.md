@@ -70,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0177-nth-highest-salary) |
 | [0626-exchange-seats](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
