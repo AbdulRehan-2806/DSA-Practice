@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
