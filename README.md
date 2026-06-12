@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
