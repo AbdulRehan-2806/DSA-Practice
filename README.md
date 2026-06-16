@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3838-weighted-word-mapping) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0761-special-binary-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3941-password-strength](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3941-password-strength) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3941-password-strength](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3941-password-strength) |
 ## Tree
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Stack
