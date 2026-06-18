@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
