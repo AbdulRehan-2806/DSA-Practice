@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0459-repeated-substring-pattern](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0761-special-binary-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
