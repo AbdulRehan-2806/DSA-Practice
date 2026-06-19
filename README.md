@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
+| [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
