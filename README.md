@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
