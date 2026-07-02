@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0761-special-binary-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
