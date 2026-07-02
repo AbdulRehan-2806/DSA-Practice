@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
 |  |
