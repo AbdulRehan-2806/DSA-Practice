@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3941-password-strength](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3941-password-strength) |
 ## Divide and Conquer
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
 | ------- |
