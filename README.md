@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
