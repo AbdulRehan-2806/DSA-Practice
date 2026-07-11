@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1288-remove-covered-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
