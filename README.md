@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
