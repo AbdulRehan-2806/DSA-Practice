@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
