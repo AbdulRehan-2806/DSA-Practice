@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0056-merge-intervals) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0152-maximum-product-subarray) |
