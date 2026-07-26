@@ -2,8 +2,6 @@ class Solution {
     public List<List<Integer>> aggregateTimeSeries(int[][] series1, int[][] series2) {
         int n = series1.length;
         int m = series2.length;
-        int min = Math.min(series1[0][0] , series2[0][0]);
-        int max = Math.max(series1[n-1][0] , series2[m-1][0]);
         TreeSet<Integer> list = new TreeSet<>();
         for(int[] arr : series1)
         {
