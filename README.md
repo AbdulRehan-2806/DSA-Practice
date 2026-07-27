@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -372,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
