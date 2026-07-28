@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
