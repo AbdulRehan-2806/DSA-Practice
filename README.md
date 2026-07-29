@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0767-reorganize-string) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
