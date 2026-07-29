@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0045-jump-game-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0436-find-right-interval](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0436-find-right-interval) |
