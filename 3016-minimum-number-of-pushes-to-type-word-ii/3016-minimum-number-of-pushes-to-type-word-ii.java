@@ -25,11 +25,6 @@ class Solution {
             if(a.freq != b.freq) return Integer.compare(b.freq,a.freq);
             else return 0;
         });
-        for(int i=0;i<al.size();i++)
-        {
-            Pair p = al.get(i);
-            System.out.println(p.key +" "+ p.freq);
-        }
         int moves = 0;
         int p=1;
         for(int i=0;i<al.size();i++)
@@ -39,7 +34,6 @@ class Solution {
             char c = pair.key;
             int f = pair.freq;
             moves += (p*f);
-            f -= 8;
         }
         return moves;
     }
