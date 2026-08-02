@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -410,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
