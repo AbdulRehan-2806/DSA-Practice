@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
@@ -414,4 +417,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
