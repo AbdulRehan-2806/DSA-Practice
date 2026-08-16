@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -473,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -480,10 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
