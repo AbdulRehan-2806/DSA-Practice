@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
+| [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
