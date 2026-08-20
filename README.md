@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
