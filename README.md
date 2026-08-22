@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3941-password-strength](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3941-password-strength) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
 |  |
 | ------- |
