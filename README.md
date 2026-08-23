@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1927-sum-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
