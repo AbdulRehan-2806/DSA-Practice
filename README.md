@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0791-custom-sort-string) |
+| [0904-fruit-into-baskets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
