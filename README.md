@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0115-distinct-subsequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
