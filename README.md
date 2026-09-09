@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
