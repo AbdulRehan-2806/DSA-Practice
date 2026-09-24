@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Backtracking
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
