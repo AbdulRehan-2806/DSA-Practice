@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0455-assign-cookies) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
