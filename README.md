@@ -347,11 +347,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Database
 |  |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
