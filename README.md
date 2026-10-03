@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0070-climbing-stairs) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0946-validate-stack-sequences) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search Tree
 |  |
