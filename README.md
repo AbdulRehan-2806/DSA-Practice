@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0045-jump-game-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
