@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0459-repeated-substring-pattern) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0146-lru-cache) |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -653,4 +657,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
