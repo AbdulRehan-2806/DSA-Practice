@@ -1,4 +1,12 @@
 class Solution {
+    class Pair{
+        int freq;
+        int val;
+        Pair(int freq , int val){
+            this.freq = freq;
+            this.val = val;
+        }
+    }
     public int[] topKFrequent(int[] nums, int k) {
         int n = nums.length;
         HashMap<Integer,Integer> hm = new HashMap<>();
@@ -6,18 +14,20 @@ class Solution {
         {
             hm.put(num,hm.getOrDefault(num,0)+1);
         }
-        ArrayList<Integer> al = new ArrayList<>(hm.keySet());
-        Collections.sort(al,(a,b)->{
-            int fa = hm.get(a);
-            int fb = hm.get(b);
-            if(fa != fb)
-                return Integer.compare(fb,fa);
-            return Integer.compare(a,b);
-        });
         int[] ans = new int[k];
-        for(int i=0;i<k;i++)
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)->{
+            return Integer.compare(a.freq,b.freq);
+        });
+        for(int key : hm.keySet())
         {
-            ans[i] = al.get(i);
+            Pair p = new Pair(hm.get(key) , key);
+            pq.offer(p);
+            if(pq.size() > k) pq.poll();
+        }
+        int i=0;
+        while(pq.size()>0){
+            Pair p = pq.poll();
+            ans[i++] = p.val;
         }
         return ans;
     }
