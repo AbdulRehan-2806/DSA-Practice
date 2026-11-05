@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
