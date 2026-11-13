@@ -11,24 +11,33 @@ class Solution {
                 adj.get(i).add(num);
             }
         }
-        int[] state = new int[n];
+        boolean[] vis = new boolean[n];
+        boolean[] curpath = new boolean[n];
         
         for(int i=0;i<n;i++)
         {
-            if(dfs(adj , i , state)) ans.add(i);
+            boolean res = dfs(adj , i , vis , curpath);
+        }
+        for(int i=0;i<n;i++){
+            if(!curpath[i]) ans.add(i);
         }
         return ans;
     }
-    static boolean dfs(List<List<Integer>> adj , int src , int[] state)
+    static boolean dfs(List<List<Integer>> adj , int src ,boolean[] vis , boolean[] curpath)
     {
-        if(state[src] == 1) return false;
-        if(state[src] == 2) return true;
-        state[src] = 1;
+        vis[src] = true;
+        curpath[src] = true;
         for(int it : adj.get(src))
         {
-            if(!dfs(adj ,it,state)) return false;
+            if(vis[it] && curpath[it])
+            {
+                return true;
+            }
+            else if(!vis[it]){
+                if(dfs(adj,it,vis,curpath)) return true;
+            }
         }
-        state[src] = 2;
-        return true;
+        curpath[src] = false;
+        return false;
     }
 }
