@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3310-remove-methods-from-project) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3310-remove-methods-from-project) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3310-remove-methods-from-project) |
@@ -733,12 +736,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
