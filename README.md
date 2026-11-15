@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1872-stone-game-viii) |
