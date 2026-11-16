@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
