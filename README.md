@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
