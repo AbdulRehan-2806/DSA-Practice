@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1690-stone-game-vii) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -634,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -756,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
@@ -771,4 +778,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0207-course-schedule) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
