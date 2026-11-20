@@ -2,43 +2,39 @@ class Solution {
     static int[] dx = {0, 0, 1, -1};
     static int[] dy = {1, -1, 0, 0};
     public int orangesRotting(int[][] grid) {
-        if(grid.length == 0) return 0;
         int n = grid.length;
         int m = grid[0].length;
-        Queue<int[]> rotten = new LinkedList<>();
-        int total = 0 , count = 0 , days = 0;
+        int total = 0;
+        Queue<int[]> q = new LinkedList<>();
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
+                if(grid[i][j] == 2) q.offer(new int[]{i,j});
                 if(grid[i][j] != 0) total++;
-                if(grid[i][j] == 2)
-                {
-                    rotten.add(new int[]{i,j});
-                }
             }
         }
-        while(!rotten.isEmpty())
+        int mins = 0 , cnt=0;
+        while(!q.isEmpty())
         {
-            int sz = rotten.size();
-            count += sz;
-            for(int i=0;i<sz;i++)
+            int sz = q.size();
+            cnt += sz;
+            for(int j=0;j<sz;j++)
             {
-                int[] dir = rotten.poll();
-                int x = dir[0];
-                int y = dir[1];
-                for(int d=0;d<4;d++)
+                int[] d = q.poll();
+                int sr = d[0];
+                int sc = d[1];
+                for(int i=0;i<4;i++)
                 {
-                    int xi = x + dx[d];
-                    int yj = y + dy[d];
-                    if(xi<0 || yj<0 || xi>=n || yj>=m || grid[xi][yj] != 1) continue;
-                    rotten.add(new int[]{xi,yj});
-                    grid[xi][yj] = 2;
+                    int x = sr+dx[i];
+                    int y = sc+dy[i];
+                    if(x<0 || x>=n || y<0 || y>=m || grid[x][y] != 1) continue;
+                    q.offer(new int[]{x,y});
+                    grid[x][y] = 2;
                 }
             }
-            if(rotten.size() != 0) days++;
+            if(!q.isEmpty()) mins++;
         }
-        if(total == count) return days;
-        return -1;
+        return total == cnt ? mins : -1;
     }
 }
