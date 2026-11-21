@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
