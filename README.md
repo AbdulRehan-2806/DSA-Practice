@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
+| [0909-snakes-and-ladders](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0909-snakes-and-ladders) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0909-snakes-and-ladders](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
