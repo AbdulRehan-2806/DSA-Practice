@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
