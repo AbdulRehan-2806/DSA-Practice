@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3934-smallest-unique-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3941-password-strength) |
 ## Tree
 |  |
@@ -778,10 +781,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -825,4 +830,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
