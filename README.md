@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0909-snakes-and-ladders](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -836,4 +841,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdulRehan-2806/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
